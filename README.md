@@ -1,6 +1,4 @@
-# Project Name
-
-> SoMe - Soundtrack of My Everyday
+# SoundCrowd
 
 ## Team
 
