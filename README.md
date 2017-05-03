@@ -43,7 +43,7 @@
 ## Development
 
 ### Built With
-- Database: [MongoDB](https://www.mongodb.com/)
+- Database: [MySQL](https://www.mysql.com/)
 - Server: [Node](https://nodejs.org/) w/ [Express JS](https://expressjs.com) Framework
 - Framework: [React](https://facebook.github.io/react/)
 
