@@ -45,7 +45,7 @@
 ### Built With
 - Database: [MongoDB](https://www.mongodb.com/)
 - Server: [Node](https://nodejs.org/) w/ [Express JS](https://expressjs.com) Framework
-- Framework: [React Native](https://facebook.github.io/react-native/)
+- Framework: [React](https://facebook.github.io/react-native/)
 
 ### Additional Technologies
 
